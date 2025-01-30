@@ -1,8 +1,6 @@
 # Random Quiz Generator and Grader
 
-## Headings Overview
-
-### Project Overview
+## Project Overview
 The **Random Quiz Generator and Grader** is a Python-based application for conducting and grading quizzes dynamically using JSON data.
 
 ---
