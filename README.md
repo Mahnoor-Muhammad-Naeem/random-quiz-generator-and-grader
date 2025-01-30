@@ -27,31 +27,9 @@ The **Random Quiz Generator and Grader** is a Python-based application for condu
 
 ## How to Use
 
-1. **Clone the repository**:
-   To get a copy of the repository to your local machine, run the following command:
-   
-```bash
-git clone https://github.com/Mahnoor-Muhammad-Naeem/quiz-generator.git
-```
-
-```bash
-cd quiz-generator
-```
-
 ```bash
 python --version
 ```
 
 ```bash
 python3 --version
-```
-
-```bash
-python quiz.py
-```
-
-```bash
-python3 quiz.py
-```
-
-
