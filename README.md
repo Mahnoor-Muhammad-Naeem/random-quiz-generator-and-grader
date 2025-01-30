@@ -24,8 +24,9 @@ The **Random Quiz Generator and Grader** is a Python-based application for condu
 
 ---
 
-
-## How to Use
+### Working:
+#### How to Run the Project?
+Follow these steps to run the Python code:
 
 ```bash
 python --version
@@ -33,3 +34,22 @@ python --version
 
 ```bash
 python3 --version
+```
+
+### Clone the Repository
+Open a terminal or command prompt and run the following command to clone the project:
+```bash
+git clone https://github.com/Mahnoor-Muhammad-Naeem/random-quiz-generator-and-grader.git
+```
+
+Navigate to the Project Directory
+After cloning, go to the project directory:
+```bash
+cd random-quiz-generator-and-grader
+```
+
+Run the Python Code
+```bash
+python quiz.py
+```
+
